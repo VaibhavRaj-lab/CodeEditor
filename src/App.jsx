@@ -1,5 +1,5 @@
 
-import { Box, Code } from '@chakra-ui/react';
+import { Box } from '@chakra-ui/react';
 import CodeEditor from './components/CodeEditor';
 
 function App() {
